@@ -20,10 +20,12 @@ function calculate(){
     displayDiv.innerText= total
     console.log(total)
 }
+// console.log(5 + "3")
+// var x = parseInt("3")
+// console.log(5 + x)
 
-
-var numData = document.querySelectorAll=(".data-number");
-var operator = document.querySelectorAll=(".operator");
+// var numData = document.querySelectorAll=(".data-number");
+// var operator = document.querySelectorAll=(".operator");
 
 var displayDiv = document.querySelector("#display");
 displayDiv.innerText = "";
